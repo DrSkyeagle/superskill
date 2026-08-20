@@ -1,5 +1,7 @@
 # superskill —— 渐进式披露的 SKILL 组织器
 
+> 💡 专业版看得费劲？先看 [README-通俗版.md](README-通俗版.md)（大白话版）。
+>
 > 把 WorkBuddy 里零散的小 SKILL，自动归并成"按领域划分的聚合大 SKILL"，每个大 SKILL 成为该领域的统一调度入口。全程遵循**渐进式披露（Progressive Disclosure）**：概览常驻，细节按需加载。
 
 ## 解决的问题
